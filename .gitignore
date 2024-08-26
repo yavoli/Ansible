@@ -1,6 +1,1 @@
-.bash_logout
-.bashrc
-.cache
-.sudo_as_admin_successful
-.profile
-.bash_history
+.*
